@@ -10,7 +10,7 @@ describe("JobPaginate.vue", () => {
         page: 1,
         pageSize: 10,
         count: 200,
-      }
+      },
     });
   });
 
@@ -19,12 +19,12 @@ describe("JobPaginate.vue", () => {
   });
 
   it("When load shold set current 1", () => {
-    wrapper.vm.load()
+    wrapper.vm.load();
     expect(wrapper.vm.currentPage).toBe(1);
   });
 
   it("When click on page shold change page", () => {
-    wrapper.vm.pageChange(4)
+    wrapper.vm.pageChange(4);
     expect(wrapper.vm.currentPage).toBe(4);
   });
 });

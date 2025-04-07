@@ -4,6 +4,10 @@ This test vue application is develop using latest version of vue with compositio
 
 I'm using tailwind to manage the css desing and optimize the view.
 
+
+## Demo on line
+https://adorable-pony-4f4e03.netlify.app/#/jobs
+
 ## Project setup
 ```
 yarn install

@@ -11,7 +11,7 @@ describe("JobCard.vue", () => {
         job: {
           id: 4,
           title: "Front end",
-          location: "RD"
+          location: "RD",
         },
       },
       actions: {},

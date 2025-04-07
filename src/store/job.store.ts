@@ -12,7 +12,8 @@ interface JobState {
   jobCount: number;
 }
 
-const apiFileName = "http://localhost:8080/data/api.json";
+const apiFileName =
+  "https://raw.githubusercontent.com/wilsonhamiltond/hikru-vue-test/refs/heads/main/public/data/api.json";
 
 export default createStore<JobState>({
   state: {

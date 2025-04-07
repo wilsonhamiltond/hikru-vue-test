@@ -9,14 +9,16 @@ describe("JobTable.vue", () => {
     const mockStore = createStore({
       state: {
         jobCount: 1,
-        jobs: [{
-          id: 4,
-          title: "Front end",
-          location: "RD"
-        }]
+        jobs: [
+          {
+            id: 4,
+            title: "Front end",
+            location: "RD",
+          },
+        ],
       },
       actions: {
-        fetchJobs: jest.fn
+        fetchJobs: jest.fn,
       },
       mutations: {},
     });
