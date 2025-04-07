@@ -1,0 +1,466 @@
+[
+    {
+        "id": 1,
+        "title": "Frontend Developer Specialist",
+        "category": "Frontend",
+        "company": "Web Solutions",
+        "description": "Seeking a talented engineer with expertise in...",
+        "location": "Berlin, Germany"
+    },
+    {
+        "id": 2,
+        "title": "Backend Engineer Analyst",
+        "category": "Backend",
+        "company": "Cloud Services",
+        "description": "Join our team as a passionate professional in...",
+        "location": "Santo Domingo, Dominican Republic"
+    },
+    {
+        "id": 3,
+        "title": "DevOps Developer Designer",
+        "category": "DevOps",
+        "company": "SecureTech",
+        "description": "Seeking a talented engineer with expertise in...",
+        "location": "Toronto, Canada"
+    },
+    {
+        "id": 4,
+        "title": "Project Management Engineer Specialist",
+        "category": "Project Management",
+        "company": "TechCorp",
+        "description": "An exciting opportunity for an experienced specialist in...",
+        "location": "London, UK"
+    },
+    {
+        "id": 5,
+        "title": "Full Stack Specialist Analyst",
+        "category": "Full Stack",
+        "company": "Innovate Solutions",
+        "description": "We're looking for a skilled developer...",
+        "location": "Tokyo, Japan"
+    },
+    {
+        "id": 6,
+        "title": "Mobile Developer Designer",
+        "category": "Mobile",
+        "company": "Global Software",
+        "description": "Join our team as a passionate professional in...",
+        "location": "Mexico City, Mexico"
+    },
+    {
+        "id": 7,
+        "title": "Design Engineer Analyst",
+        "category": "Design",
+        "company": "Mobile First Inc.",
+        "description": "Seeking a talented engineer with expertise in...",
+        "location": "Sydney, Australia"
+    },
+    {
+        "id": 8,
+        "title": "QA Developer Specialist",
+        "category": "QA",
+        "company": "Creative Agency",
+        "description": "An exciting opportunity for an experienced specialist in...",
+        "location": "New York, USA"
+    },
+    {
+        "id": 9,
+        "title": "Cybersecurity Specialist Analyst",
+        "category": "Cybersecurity",
+        "company": "Data Systems",
+        "description": "We're looking for a skilled developer...",
+        "location": "Madrid, Spain"
+    },
+    {
+        "id": 10,
+        "title": "Data Science Engineer Designer",
+        "category": "Data Science",
+        "company": "Web Solutions",
+        "description": "Seeking a talented engineer with expertise in...",
+        "location": "Berlin, Germany"
+    },
+    {
+        "id": 11,
+        "title": "Frontend Specialist Analyst",
+        "category": "Frontend",
+        "company": "Cloud Services",
+        "description": "Join our team as a passionate professional in...",
+        "location": "Santo Domingo, Dominican Republic"
+    },
+    {
+        "id": 12,
+        "title": "Backend Developer Designer",
+        "category": "Backend",
+        "company": "SecureTech",
+        "description": "Seeking a talented engineer with expertise in...",
+        "location": "Toronto, Canada"
+    },
+    {
+        "id": 13,
+        "title": "Full Stack Engineer Specialist",
+        "category": "Full Stack",
+        "company": "TechCorp",
+        "description": "An exciting opportunity for an experienced specialist in...",
+        "location": "London, UK"
+    },
+    {
+        "id": 14,
+        "title": "Mobile Specialist Analyst",
+        "category": "Mobile",
+        "company": "Innovate Solutions",
+        "description": "We're looking for a skilled developer...",
+        "location": "Tokyo, Japan"
+    },
+    {
+        "id": 15,
+        "title": "Design Developer Designer",
+        "category": "Design",
+        "company": "Global Software",
+        "description": "Join our team as a passionate professional in...",
+        "location": "Mexico City, Mexico"
+    },
+    {
+        "id": 16,
+        "title": "QA Engineer Specialist",
+        "category": "QA",
+        "company": "Mobile First Inc.",
+        "description": "Seeking a talented engineer with expertise in...",
+        "location": "Sydney, Australia"
+    },
+    {
+        "id": 17,
+        "title": "Cybersecurity Specialist Analyst",
+        "category": "Cybersecurity",
+        "company": "Creative Agency",
+        "description": "An exciting opportunity for an experienced specialist in...",
+        "location": "New York, USA"
+    },
+    {
+        "id": 18,
+        "title": "Data Science Developer Designer",
+        "category": "Data Science",
+        "company": "Data Systems",
+        "description": "We're looking for a skilled developer...",
+        "location": "Madrid, Spain"
+    },
+    {
+        "id": 19,
+        "title": "DevOps Engineer Specialist",
+        "category": "DevOps",
+        "company": "Web Solutions",
+        "description": "Seeking a talented engineer with expertise in...",
+        "location": "Berlin, Germany"
+    },
+    {
+        "id": 20,
+        "title": "Project Management Specialist Analyst",
+        "category": "Project Management",
+        "company": "Cloud Services",
+        "description": "Join our team as a passionate professional in...",
+        "location": "Santo Domingo, Dominican Republic"
+    },
+    {
+        "id": 21,
+        "title": "Frontend Developer Designer",
+        "category": "Frontend",
+        "company": "SecureTech",
+        "description": "Seeking a talented engineer with expertise in...",
+        "location": "Toronto, Canada"
+    },
+    {
+        "id": 22,
+        "title": "Backend Engineer Specialist",
+        "category": "Backend",
+        "company": "TechCorp",
+        "description": "An exciting opportunity for an experienced specialist in...",
+        "location": "London, UK"
+    },
+    {
+        "id": 23,
+        "title": "Full Stack Specialist Analyst",
+        "category": "Full Stack",
+        "company": "Innovate Solutions",
+        "description": "We're looking for a skilled developer...",
+        "location": "Tokyo, Japan"
+    },
+    {
+        "id": 24,
+        "title": "Mobile Developer Designer",
+        "category": "Mobile",
+        "company": "Global Software",
+        "description": "Join our team as a passionate professional in...",
+        "location": "Mexico City, Mexico"
+    },
+    {
+        "id": 25,
+        "title": "Design Engineer Specialist",
+        "category": "Design",
+        "company": "Mobile First Inc.",
+        "description": "Seeking a talented engineer with expertise in...",
+        "location": "Sydney, Australia"
+    },
+    {
+        "id": 26,
+        "title": "QA Specialist Analyst",
+        "category": "QA",
+        "company": "Creative Agency",
+        "description": "An exciting opportunity for an experienced specialist in...",
+        "location": "New York, USA"
+    },
+    {
+        "id": 27,
+        "title": "Cybersecurity Developer Designer",
+        "category": "Cybersecurity",
+        "company": "Data Systems",
+        "description": "We're looking for a skilled developer...",
+        "location": "Madrid, Spain"
+    },
+    {
+        "id": 28,
+        "title": "Data Science Engineer Specialist",
+        "category": "Data Science",
+        "company": "Web Solutions",
+        "description": "Seeking a talented engineer with expertise in...",
+        "location": "Berlin, Germany"
+    },
+    {
+        "id": 29,
+        "title": "DevOps Specialist Analyst",
+        "category": "DevOps",
+        "company": "Cloud Services",
+        "description": "Join our team as a passionate professional in...",
+        "location": "Santo Domingo, Dominican Republic"
+    },
+    {
+        "id": 30,
+        "title": "Project Management Developer Designer",
+        "category": "Project Management",
+        "company": "SecureTech",
+        "description": "Seeking a talented engineer with expertise in...",
+        "location": "Toronto, Canada"
+    },
+    {
+        "id": 31,
+        "title": "Frontend Engineer Specialist",
+        "category": "Frontend",
+        "company": "TechCorp",
+        "description": "An exciting opportunity for an experienced specialist in...",
+        "location": "London, UK"
+    },
+    {
+        "id": 32,
+        "title": "Backend Specialist Analyst",
+        "category": "Backend",
+        "company": "Innovate Solutions",
+        "description": "We're looking for a skilled developer...",
+        "location": "Tokyo, Japan"
+    },
+    {
+        "id": 33,
+        "title": "Full Stack Developer Designer",
+        "category": "Full Stack",
+        "company": "Global Software",
+        "description": "Join our team as a passionate professional in...",
+        "location": "Mexico City, Mexico"
+    },
+    {
+        "id": 34,
+        "title": "Mobile Engineer Specialist",
+        "category": "Mobile",
+        "company": "Mobile First Inc.",
+        "description": "Seeking a talented engineer with expertise in...",
+        "location": "Sydney, Australia"
+    },
+    {
+        "id": 35,
+        "title": "Design Specialist Analyst",
+        "category": "Design",
+        "company": "Creative Agency",
+        "description": "An exciting opportunity for an experienced specialist in...",
+        "location": "New York, USA"
+    },
+    {
+        "id": 36,
+        "title": "QA Developer Designer",
+        "category": "QA",
+        "company": "Data Systems",
+        "description": "We're looking for a skilled developer...",
+        "location": "Madrid, Spain"
+    },
+    {
+        "id": 37,
+        "title": "Cybersecurity Engineer Specialist",
+        "category": "Cybersecurity",
+        "company": "Web Solutions",
+        "description": "Seeking a talented engineer with expertise in...",
+        "location": "Berlin, Germany"
+    },
+    {
+        "id": 38,
+        "title": "Data Science Specialist Analyst",
+        "category": "Data Science",
+        "company": "Cloud Services",
+        "description": "Join our team as a passionate professional in...",
+        "location": "Santo Domingo, Dominican Republic"
+    },
+    {
+        "id": 39,
+        "title": "DevOps Developer Designer",
+        "category": "DevOps",
+        "company": "SecureTech",
+        "description": "Seeking a talented engineer with expertise in...",
+        "location": "Toronto, Canada"
+    },
+    {
+        "id": 40,
+        "title": "Project Management Engineer Specialist",
+        "category": "Project Management",
+        "company": "TechCorp",
+        "description": "An exciting opportunity for an experienced specialist in...",
+        "location": "London, UK"
+    },
+    {
+        "id": 41,
+        "title": "Frontend Specialist Analyst",
+        "category": "Frontend",
+        "company": "Innovate Solutions",
+        "description": "We're looking for a skilled developer...",
+        "location": "Tokyo, Japan"
+    },
+    {
+        "id": 42,
+        "title": "Backend Developer Designer",
+        "category": "Backend",
+        "company": "Global Software",
+        "description": "Join our team as a passionate professional in...",
+        "location": "Mexico City, Mexico"
+    },
+    {
+        "id": 43,
+        "title": "Full Stack Engineer Specialist",
+        "category": "Full Stack",
+        "company": "Mobile First Inc.",
+        "description": "Seeking a talented engineer with expertise in...",
+        "location": "Sydney, Australia"
+    },
+    {
+        "id": 44,
+        "title": "Mobile Specialist Analyst",
+        "category": "Mobile",
+        "company": "Creative Agency",
+        "description": "An exciting opportunity for an experienced specialist in...",
+        "location": "New York, USA"
+    },
+    {
+        "id": 45,
+        "title": "Design Developer Designer",
+        "category": "Design",
+        "company": "Data Systems",
+        "description": "We're looking for a skilled developer...",
+        "location": "Madrid, Spain"
+    },
+    {
+        "id": 46,
+        "title": "QA Engineer Specialist",
+        "category": "QA",
+        "company": "Web Solutions",
+        "description": "Seeking a talented engineer with expertise in...",
+        "location": "Berlin, Germany"
+    },
+    {
+        "id": 47,
+        "title": "Cybersecurity Specialist Analyst",
+        "category": "Cybersecurity",
+        "company": "Cloud Services",
+        "description": "Join our team as a passionate professional in...",
+        "location": "Santo Domingo, Dominican Republic"
+    },
+    {
+        "id": 48,
+        "title": "Data Science Developer Designer",
+        "category": "Data Science",
+        "company": "SecureTech",
+        "description": "Seeking a talented engineer with expertise in...",
+        "location": "Toronto, Canada"
+    },
+    {
+        "id": 49,
+        "title": "DevOps Engineer Specialist",
+        "category": "DevOps",
+        "company": "TechCorp",
+        "description": "An exciting opportunity for an experienced specialist in...",
+        "location": "London, UK"
+    },
+    {
+        "id": 50,
+        "title": "Project Management Specialist Analyst",
+        "category": "Project Management",
+        "company": "Innovate Solutions",
+        "description": "We're looking for a skilled developer...",
+        "location": "Tokyo, Japan"
+    },
+    {
+        "id": 51,
+        "title": "Frontend Developer Designer",
+        "category": "Frontend",
+        "company": "Global Software",
+        "description": "Join our team as a passionate professional in...",
+        "location": "Mexico City, Mexico"
+    },
+    {
+        "id": 52,
+        "title": "Backend Engineer Specialist",
+        "category": "Backend",
+        "company": "Mobile First Inc.",
+        "description": "Seeking a talented engineer with expertise in...",
+        "location": "Sydney, Australia"
+    },
+    {
+        "id": 53,
+        "title": "Full Stack Specialist Analyst",
+        "category": "Full Stack",
+        "company": "Creative Agency",
+        "description": "An exciting opportunity for an experienced specialist in...",
+        "location": "New York, USA"
+    },
+    {
+        "id": 54,
+        "title": "Mobile Developer Designer",
+        "category": "Mobile",
+        "company": "Data Systems",
+        "description": "We're looking for a skilled developer...",
+        "location": "Madrid, Spain"
+    },
+    {
+        "id": 55,
+        "title": "Design Engineer Specialist",
+        "category": "Design",
+        "company": "Web Solutions",
+        "description": "Seeking a talented engineer with expertise in...",
+        "location": "Berlin, Germany"
+    },
+    {
+        "id": 56,
+        "title": "QA Specialist Analyst",
+        "category": "QA",
+        "company": "Cloud Services",
+        "description": "Join our team as a passionate professional in...",
+        "location": "Santo Domingo, Dominican Republic"
+    },
+    {
+        "id": 57,
+        "title": "Cybersecurity Developer Designer",
+        "category": "Cybersecurity",
+        "company": "SecureTech",
+        "description": "Seeking a talented engineer with expertise in...",
+        "location": "Toronto, Canada"
+    },
+    {
+        "id": 58,
+        "title": "Data Science Engineer Specialist",
+        "category": "Data Science",
+        "company": "TechCorp",
+        "description": "An exciting opportunity for an experienced specialist in...",
+        "location": "London, UK"
+    }
+]
